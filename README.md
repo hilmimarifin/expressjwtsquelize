@@ -1,0 +1,1 @@
+express jwt authentication with squelize orm
